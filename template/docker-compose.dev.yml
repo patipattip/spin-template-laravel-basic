@@ -1,8 +1,8 @@
 services:
   traefik:
     ports:
-    - "80:80"
-    - "443:443"
+    - "8888:80"
+    - "8443:443"
     networks:
       development:
     volumes:
