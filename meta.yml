@@ -1,7 +1,7 @@
-title: Laravel Basic Template
+---
+title: My Spin Template
 authors:
-  - Jay Rogers (@jaydrogers)
-  - Dan Pastori (@danpastori)
-description: The official Laravel Spin template when you run `spin new laravel` from CLI.
+  - Patipat Tippayasirin (@patipattip)
+description: My Spin Template.
 repository: https://github.com/patipattip/spin-template-laravel-basic
 issues: https://github.com/patipattip/spin-template-laravel-basic/issues
